@@ -35,11 +35,8 @@ Skills: PHP / Laravel / JS / jQuery / MySQL / HTML / CSS / Git / GitHub / Bootst
 - 💬 Ask me about Web Development 
 
 
-[<img src='['https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40']
   
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Imran-Hsan)  
-  
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Imran-Hsan) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imran-Hsn)](https://github.com/anuraghazra/github-readme-stats)
 
