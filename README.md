@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Imran Hasan
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer](https://media-exp1.licdn.com/dms/image/D5616AQHa5zkS4-Tx9g/profile-displaybackgroundimage-shrink_350_1400/0/1665598210983?e=1671062400&v=beta&t=NflqHXtuiNndPrOgS11ywNHQ3GGR7ElCEFy3PoNjw9A)
 
 Currently I'm working as a Backend Developer. 
 
