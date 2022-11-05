@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Imran Hasan
 #### Web Developer
-![Web Developer](https://www.linkedin.com/in/imran-h-758355213/overlay/background-image/)
+![Web Developer](https://media-exp1.licdn.com/dms/image/D5616AQGfWITrf1SPuw/profile-displaybackgroundimage-shrink_350_1400/0/1667641049910?e=1672876800&v=beta&t=2_qFth7axt80OO0XyBkpVgdLWF6r7t35wUfQTyyNDJc)
 
 Currently I'm working as a Backend Developer. 
 
@@ -50,7 +50,6 @@ Skills: PHP / Laravel / JavaScript / MySQL / HTML / CSS / Git / GitHub / Linux
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Imran-Hsn)  
 
 ![Profile views](https://gpvc.arturio.dev/Imran-Hsn)  
-
 
 
 
