@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, I'm Imran Hasan
-#### Web Developer
+#### Full-stack Web Developer
 ![Web Developer](https://media-exp1.licdn.com/dms/image/D5616AQGfWITrf1SPuw/profile-displaybackgroundimage-shrink_350_1400/0/1667641049910?e=1672876800&v=beta&t=2_qFth7axt80OO0XyBkpVgdLWF6r7t35wUfQTyyNDJc)
 
 Currently I'm working as a Backend Developer. 
