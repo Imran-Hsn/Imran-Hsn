@@ -29,7 +29,7 @@ Currently I'm working as a Backend Developer.
 
 
 
-Skills: PHP / Laravel / CodeIgniter / OOP / JavaScript / jQuery / MySQL / SQL / HTML / CSS / Bootstrap / Git / GitHub / Linux (Ubuntu)
+Skills: PHP / Laravel / CodeIgniter / OOP / JavaScript / React / Nextjs / jQuery / MySQL / SQL / HTML / CSS / Bootstrap / Git / GitHub / Linux (Ubuntu)
 
 - 🔭 I’m currently working on Laravel 
 - 💬 Ask me about Laravel
