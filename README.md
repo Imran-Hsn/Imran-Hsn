@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, I'm Imran Hasan
 #### Full-stack Web Developer
 
-Currently I'm working as a Backend Developer. 
+Currently I'm working as a Full-stack Developer. 
 
 
 
