@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Imran Hasan
 #### Full-stack Web Developer
-![Web Developer](https://media-exp1.licdn.com/dms/image/D5616AQGfWITrf1SPuw/profile-displaybackgroundimage-shrink_350_1400/0/1667641049910?e=1672876800&v=beta&t=2_qFth7axt80OO0XyBkpVgdLWF6r7t35wUfQTyyNDJc)
 
 Currently I'm working as a Backend Developer. 
 
@@ -41,7 +40,6 @@ Skills: PHP / Laravel / CodeIgniter / OOP / JavaScript / Reactjs / Nextjs / jQue
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imran-Hsn)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Imran-Hsn&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Imran-Hsn)  
 
