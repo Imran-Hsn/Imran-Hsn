@@ -34,11 +34,6 @@ Skills: PHP / Laravel / CodeIgniter / OOP / JavaScript / Reactjs / Nextjs / jQue
 - 💬 Ask me about Web Development
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Imran-Hsan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/developer-imran-hasan/)  
- 
-
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Imran-Hsn)  
 
 
