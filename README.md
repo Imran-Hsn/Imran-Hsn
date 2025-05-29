@@ -41,11 +41,6 @@ Skills: PHP / Laravel / CodeIgniter / OOP / JavaScript / Reactjs / Nextjs / jQue
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Imran-Hsn)  
 
-![Profile views](https://gpvc.arturio.dev/Imran-Hsn)  
-
-
-
-
 
 
 
